@@ -1,4 +1,4 @@
-# CDMX Selling Appartment prices
+# Selling Appartment prices
 
 Scrapes data from following sites:
 
